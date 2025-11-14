@@ -1,7 +1,5 @@
 # Predicting Agricultural Drought Risk Using Machine Learning
 
-Story-driven notebook (`predict_drought_risk.ipynb`) that simulates agro-climate signals, engineers drought-sensitive features, and compares tree- and kernel-based classifiers with a lab-diary narration style.
-
 ## Project structure
 
 | File | Purpose |
